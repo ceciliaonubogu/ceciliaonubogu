@@ -32,7 +32,7 @@ What I focus on:
 Contact / Links:
 - LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
 - Portfolio: https://github.com/augustineedeh2411-create
-- Email: augustineedeh2411@email.com
+- Email: cecilia.onubogu@gmail.com
 
 ---
 
