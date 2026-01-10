@@ -109,7 +109,7 @@ These tools are widely used in SOC environments and are commonly included in han
 
 ---
 
-## Tooling I Work With (Templates)
+## Tooling I Worked With (Templates)
 
 ### Logging / Telemetry Sources
 - Windows Event Logs (Security, Sysmon, PowerShell). [web:16]
@@ -130,6 +130,7 @@ These tools are widely used in SOC environments and are commonly included in han
 - Shuffle SOAR — Docs: https://shuffler.io/docs
 - TheHive (Case Management) — Docs: https://docs.thehive-project.org/
 - Microsoft Logic Apps / Sentinel Automation — Docs: https://learn.microsoft.com/azure/logic-apps/
+- Splunk SOAR /PHANTOM - https://docs.splunk.com/Documentation/Phantom/4.10.7/User/Intro
 
 ### IDS / NSM
 - Wireshark — Docs: https://www.wireshark.org/docs/
