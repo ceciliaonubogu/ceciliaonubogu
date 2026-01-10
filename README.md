@@ -16,7 +16,7 @@ Learners graduate with:
 - Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
 - Incident response workflow experience (tickets, cases, playbooks, reports).
 - GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
-- Real-world tooling familiarity (SIEM (Splunk, Wazuh, Microsoft Sentinel), EDR/XDR ( Defender for Endpoint), SOAR (Splunk Soar/Microsoft Sentinel), threat intel, Vulnerability Management Tools (Tenable, Rapid 7 and Open VAS).
+- Real-world tooling familiarity (SIEM (Splunk, Wazuh, Microsoft Sentinel), EDR/XDR ( Defender for Endpoint, SentinelOne, CrowdStrike), SOAR (Splunk Soar/Microsoft Sentinel Soar), threat intel, Vulnerability Management Tools (Tenable, Rapid 7 and Open VAS).
 
 ---
 
