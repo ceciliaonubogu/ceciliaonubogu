@@ -30,8 +30,8 @@ What I focus on:
 - Career development: building a strong portfolio on GitHub, documenting labs clearly, and continuously improving technical and governance skills.
 
 Contact / Links:
-- LinkedIn: https://linkedin.com/in/augustine-edeh-3456a239b
-- Portfolio: [https://github.com/augustineedeh2411-create](https://github.com/ceciliaonubogu/ceciliaonubogu/tree/main)
+- LinkedIn: https://linkedin.com/in/
+- Portfolio: [https://github.com/ceciliaonubogu/ceciliaonubogu/tree/main]
 - Email: cecilia.onubogu@gmail.com
 
 ---
