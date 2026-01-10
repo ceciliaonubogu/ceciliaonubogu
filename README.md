@@ -8,19 +8,19 @@ My goal is to combine hands-on SOC skills (detection, investigation, incident re
 
 ---
 
-## About CyberNova Academy (Cohort: Cybersecurity SOC & GRC)
-CyberNova Academy’s SOC & GRC Cohort is a hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness).  
+## Completed CyberNova Academy -100% Hands-On Cohort Training:(Cybersecurity SOC & GRC)
+CyberNova Academy’s SOC & GRC Cohort is 100% hands-on, job-ready program designed to help learners build real SOC analyst capability (detection, triage, investigation, response) and GRC capability (risk, compliance, ISO 27001, Essential Eight alignment, audit readiness).  
 
 Learners graduate with:
 - A GitHub portfolio with practical SOC labs and write-ups.
 - Evidence of detection engineering (KQL/SPL, dashboards, alerts, use cases).
 - Incident response workflow experience (tickets, cases, playbooks, reports).
 - GRC artifacts (risk register, policies, ISMS scope, audit evidence pack).
-- Real-world tooling familiarity (SIEM, EDR, SOAR, threat intel, logging).
+- Real-world tooling familiarity (SIEM (Splunk, Wazuh, Microsoft Sentinel), EDR/XDR ( Defender for Endpoint), SOAR (Splunk Soar/Microsoft Sentinel), threat intel, Vulnerability Management Tools (Tenable, Rapid 7 and Open VAS).
 
 ---
 
-## About Augustine EDEH, SOC & GRC Professional
+## About Cecilia Onubogu, SOC & GRC Professional
 As a SOC and GRC-focused cybersecurity professional, I work at the intersection of technical detection/response and governance-driven risk management.
 My interests include building SOC workflows, designing detections in SIEM platforms, and creating governance artifacts that map security controls to business risk and compliance requirements.
 
