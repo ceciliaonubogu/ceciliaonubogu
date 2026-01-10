@@ -1,4 +1,4 @@
-# Cecilia Onubogu - Cybersecurity-SOC-GRC | CyberNova Academy - Cybersecurity SOC & GRC
+# Cecilia Onubogu - Cybersecurity-SOC-GRC | Cyber Security Analyst| GRC | Security Operations & Vulnerability Management | Skilled in SIEM, EDR, Digital Forensics & Incident Response | CompTIA Certified | MSc Cybersecurity Graduate (AU)| ISC2 Certified| Google Certified
 
 # Hello, I'm Cecilia Onubogu
 <a href="https://linkedin.com/in/augustine-edeh-3456a239b"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
